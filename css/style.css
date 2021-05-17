@@ -1,0 +1,15 @@
+table, td {
+    border: 1px solid black;
+}
+
+.one {
+    background-color: crimson;
+}
+
+.two {
+    background-color: green;
+}
+
+.three, .four {
+    background-color: rebeccapurple;
+}
